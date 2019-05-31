@@ -1,0 +1,14 @@
+{
+  "name": "angular-group-project-gulp-exercise",
+  "version": "1.0.0",
+  "description": "practicing gulp etc. on my angular group proj",
+  "main": "app.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp"
+  }
+}
